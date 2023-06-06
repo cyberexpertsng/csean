@@ -28,6 +28,14 @@ The CTF will be a Jeopardy Style CTF where the teams will have a list of challen
 * A lot of prizes including Laptops, certifications, internships, etc. to be won;
 * Winners will be awarded at the **2023 CSEAN Cyber Secure Nigeria Conference**.
 * A lot of fun!
+# Eligibility 
+
+* Applicants of any age group can participate
+* You must be in a tertiary institution or finished from one
+* Must be a citizen of Nigeria.
+* You must indicate previous works done in the Cybersecurity space.
+* Not be a government agency, public administration, political organization, or non-profit of any type.
+* Not be an individual engaged in any illegal activity
 
 # Application Process
 
