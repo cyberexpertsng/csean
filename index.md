@@ -47,10 +47,10 @@ Rules concerning the platform are included.
 
 General Rules and Disclaimer
 
-1. All applications must be submitted online and completed by 6th of August 11:59pm.
+1. All applications must be submitted online and completed by 8th of July 7:59pm.
 2. Only those applications submitted on time through the online application processes will be accepted. Applications received by any other means will not be considered.
 3. Applicants are responsible for ensuring proper contact information has been submitted and is maintained throughout the Cybersecurity Hackathon Process to allow communications about the Cyber Hackathon Award.
-4. Erroneous or false information provided in the application will result in immediate disqualification of the Applicant. ABC retain the right to disqualify any Applicant in their sole discretion.
+4. Erroneous or false information provided in the application will result in immediate disqualification of the Applicant. CSEAN retain the right to disqualify any Applicant in their sole discretion.
 5. If for any reason, the Cybersecurity Hackathon is not capable of running as planned, CSEAN reserves the right in its sole discretion to cancel, terminate, modify, or suspend the Cyber Hackathon Award Program at any time.
 6. By submitting an Application, or by being an Applicant, you understand that there is no joint venture, partnership, employment, or an agency relationship between you and CSEAN or Partner Organization/ Companies arising from any application or Cyber Hackathon Award.
 7. Once notified about having a finalist application approved and receiving an Award, a Recipient has three weeks to submit information for processing the Award payment. Not meeting that deadline will result in a forfeiture of the Award.
