@@ -33,6 +33,15 @@ WHERE: Online
 
 Applications are due on July 8th at 8PM (Nigeria time). For more information, visit https://cseanctf.org.ng/
 
+# Rules 
+Rules concerning the platform are included.
+- Sharing the flags between different teams is prohibited.
+- Brute Force attacks on the challenges submission portal or challenges links are not allowed.
+- Any attack against the site or the hosted servers will be observed, and the player will be banned from participating in the CTF immediately.
+- Organizers have the permission to disqualify teams for any unethical behaviour or any trials to interrupt the CTF.
+- Please be polite and respectful in your dealings with Moderators and CTF players
+
+
 
 
 ```
