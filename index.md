@@ -2,122 +2,39 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+**Dear Hackers,**
 
-[Link to another page](./another-page.html).
+It's official!
 
-There should be whitespace between paragraphs.
+ 
+We are proud to announce that registration is open for the CSEAN Cybersecurity Hackathon games organized by the Cybersecurity Experts Association of Nigeria (CSEAN).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+ 
 
-# Header 1
+WHEN: 9th & 10th July 2022
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+WHERE: Online
 
-## Header 2
+# What should you expect?
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+·       A Jeopardy format CTF;
+·       Around 20 challenges (beware, it can get insanely difficult, but, so rewarding!);
+·       A lot of "try harder" moments :);
+·       To compete against the best ethical hacking teams from Africa;
+·       A lot of prizes including Laptops, certifications, internships, etc. to be won;
+·       Winners will be awarded at the **2023 CSEAN Cyber Secure Nigeria Conference**.
+·       A lot of fun!
 
-### Header 3
+# Application Process
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+* Apply and fill out the online application form [HERE](https://docs.google.com/forms/d/e/1FAIpQLSdgKk7jWC04O7QHQtriNEQyC-L2Kkug_WzVbAyaGTjPohzycw/viewform).
+* To register, you need to form a team. A team is made up of 4-6 participants.
+* Once the team captain registers the team, please wait for a follow-up email to join our Discord channel.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Applications are due on July 8th at 8PM (Nigeria time). For more information, visit https://cseanctf.org.ng/
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+Happy Hacking.
 ```
