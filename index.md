@@ -7,7 +7,7 @@ layout: default
 It's official!
 
  
-We are proud to announce that registration is open for the CSEAN Cybersecurity Hackathon games organized by the Cybersecurity Experts Association of Nigeria (CSEAN).
+We are proud to announce that registration is open for the CSEAN Cybersecurity Hackathon games organized by the Cybersecurity Experts Association of Nigeria (CSEAN). Fun Side of Cyber Secure Nigeria Conference 2023 
 
  
 
