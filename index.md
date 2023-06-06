@@ -11,9 +11,13 @@ We are proud to announce that registration is open for the CSEAN Cybersecurity H
 
  
 
-WHEN: 9th & 10th July 2022
+**WHEN:** 9th & 10th July 2022
 
-WHERE: Online
+**WHERE:** Online
+
+## Overview
+The CTF will be a Jeopardy Style CTF where the teams will have a list of challenges in different categories like Binary Exploitation, Reverse Engineering, Web Exploitation, Digital Forensics, Incident Response, Network Security, Governance Risk & Compliance, and others. For every challenge solved, your team will get a certain amount of points depending on the difficulty of the challenge.
+
 
 # What should you expect?
 
