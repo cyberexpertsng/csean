@@ -70,9 +70,7 @@ General Rules and Disclaimers
 12. By completing an Application or being an Applicant, you agree on behalf of yourself and each of your respective heirs, executors, administrators, legal representatives, agents, successors and assigns (“Releasing Party”) to the Cybersecurity Hackathon General Rules and the decisions of the competition, as applicable, and any affiliated entities or persons, and by completing an Application or being an Applicant, you release CSEAN, and their affiliates, advisors, agents, licensees, and any social or other media used for the Hackathon, and any of their respective officers, directors and employees as applicable (“Released Parties”), from any and all causes of action, suits, debts, dues, sums of money, accounts, reckonings, bonds, bills, covenants, contracts, controversies, promises, lost profits, indirect or direct damages, consequential damage, incidental damages, punitive or exemplary damages, judgments, claims and demands whosoever, in law, or equity, whether known or unknown, foreseen or unforeseen, which any Releasing Party has or may ever had, now or hereafter, arising from or related to the Cybersecurity Hackathon, these General Rules, any Application materials, including but not limited to any use or non-use of any Application materials, delivery, misdelivery, acceptance, possession, attendance at, travel related to, misuse, and/or use of or inability to use, any Award, or technical or other failures of any kind
 
 # Sponsors & Partner
-Cyber Security Expert Association of Nigeria (CSEAN)
-
-![CSEAN](https://raw.githubusercontent.com/cyberexpertsng/csean/master/assets/images/sixchan.png)
+![CSEAN](https://raw.githubusercontent.com/cyberexpertsng/csean/master/assets/images/sixchan2.png)
 # Organizer
 
 
