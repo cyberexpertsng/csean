@@ -44,7 +44,9 @@ Rules concerning the platform are included.
 - Any attack against the site or the hosted servers will be observed, and the player will be banned from participating in the CTF immediately.
 - Organizers have the permission to disqualify teams for any unethical behaviour or any trials to interrupt the CTF.
 - Please be polite and respectful in your dealings with Moderators and CTF players
+
 General Rules and Disclaimer
+
 1. All applications must be submitted online and completed by 6th of August 11:59pm.
 2. Only those applications submitted on time through the online application processes will be accepted. Applications received by any other means will not be considered.
 3. Applicants are responsible for ensuring proper contact information has been submitted and is maintained throughout the Cybersecurity Hackathon Process to allow communications about the Cyber Hackathon Award.
