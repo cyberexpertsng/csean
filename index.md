@@ -28,6 +28,7 @@ The CTF will be a Jeopardy Style CTF where the teams will have a list of challen
 * A lot of prizes including Laptops, certifications, internships, etc. to be won;
 * Winners will be awarded at the **2023 CSEAN Cyber Secure Nigeria Conference**.
 * A lot of fun!
+
 # Eligibility 
 
 * Applicants of any age group can participate
@@ -53,7 +54,7 @@ Rules concerning the platform are included.
 - Organizers have the permission to disqualify teams for any unethical behaviour or any trials to interrupt the CTF.
 - Please be polite and respectful in your dealings with Moderators and CTF players
 
-General Rules and Disclaimer
+General Rules and Disclaimers
 
 1. All applications must be submitted online and completed by 8th of July 7:59pm.
 2. Only those applications submitted on time through the online application processes will be accepted. Applications received by any other means will not be considered.
