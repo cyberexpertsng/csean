@@ -63,7 +63,7 @@ General Rules and Disclaimer
 # Sponsors & Partner
 Cyber Security Expert Association of Nigeria (CSEAN)
 
-![CSEAN](https://github.com/cyberexpertsng/csean/blob/master/assets/images/cseans-logo(1).png)
+![CSEAN](https://github.com/cyberexpertsng/csean/blob/master/assets/images/cseansshi.png)
 # Organizer
 
 
