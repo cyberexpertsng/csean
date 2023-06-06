@@ -17,13 +17,13 @@ WHERE: Online
 
 # What should you expect?
 
-·       A Jeopardy format CTF;
-·       Around 20 challenges (beware, it can get insanely difficult, but, so rewarding!);
-·       A lot of "try harder" moments :);
-·       To compete against the best ethical hacking teams from Africa;
-·       A lot of prizes including Laptops, certifications, internships, etc. to be won;
-·       Winners will be awarded at the **2023 CSEAN Cyber Secure Nigeria Conference**.
-·       A lot of fun!
+* A Jeopardy format CTF;
+* Around 20 challenges (beware, it can get insanely difficult, but, so rewarding!);
+* A lot of "try harder" moments :);
+* To compete against the best ethical hacking teams from Africa;
+* A lot of prizes including Laptops, certifications, internships, etc. to be won;
+* Winners will be awarded at the **2023 CSEAN Cyber Secure Nigeria Conference**.
+* A lot of fun!
 
 # Application Process
 
