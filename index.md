@@ -11,7 +11,7 @@ We are proud to announce that registration is open for the CSEAN Cybersecurity H
 
  
 
-**WHEN:** 9th & 10th July 2022
+**WHEN:** 10th & 11th July 2022
 
 **WHERE:** Online
 
@@ -44,7 +44,7 @@ The CTF will be a Jeopardy Style CTF where the teams will have a list of challen
 * To register, you need to form a team. A team is made up of 4-6 participants.
 * Once the team captain registers the team, please wait for a follow-up email to join our Discord channel.
 
-Applications are due on July 8th at 8 PM (Nigeria time). For more information, visit https://cseanctf.org.ng/
+Applications are due on July 10th at 8 PM (Nigeria time). For more information, visit https://cseanctf.org.ng/
 
 # Rules 
 Rules concerning the platform are included.
@@ -56,7 +56,7 @@ Rules concerning the platform are included.
 
 General Rules and Disclaimers
 
-1. All applications must be submitted online and completed by the 8th of July at 7:59 pm.
+1. All applications must be submitted online and completed by the 10th of July at 7:59 pm.
 2. Only those applications submitted on time through the online application processes will be accepted. Applications received by any other means will not be considered.
 3. Applicants are responsible for ensuring proper contact information has been submitted and is maintained throughout the Cybersecurity Hackathon Process to allow communications about the Cyber Hackathon Award.
 4. Erroneous or false information provided in the application will result in immediate disqualification of the Applicant. CSEAN retain the right to disqualify any Applicant in their sole discretion.
