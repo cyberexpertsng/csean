@@ -56,16 +56,16 @@ Rules concerning the platform are included.
 
 General Rules and Disclaimers
 
-1. All applications must be submitted online and completed by the 10th of July at 7:59 pm.
+1. All applications must be submitted online and completed by July 10th at 7:59 pm.
 2. Only those applications submitted on time through the online application processes will be accepted. Applications received by any other means will not be considered.
 3. Applicants are responsible for ensuring proper contact information has been submitted and is maintained throughout the Cybersecurity Hackathon Process to allow communications about the Cyber Hackathon Award.
 4. Erroneous or false information provided in the application will result in immediate disqualification of the Applicant. CSEAN retain the right to disqualify any Applicant in their sole discretion.
 5. If for any reason, the Cybersecurity Hackathon is not capable of running as planned, CSEAN reserves the right in its sole discretion to cancel, terminate, modify, or suspend the Cyber Hackathon Award Program at any time.
-6. By submitting an Application, or by being an Applicant, you understand that there is no joint venture, partnership, employment, or agency relationship between you and CSEAN or Partner Organization/ Companies arising from any application or Cyber Hackathon Award.
+6. By submitting an Application or by being an Applicant, you understand that there is no joint venture, partnership, employment, or agency relationship between you and CSEAN or Partner Organization/ Companies arising from any application or Cyber Hackathon Award.
 7. Once notified about having a finalist application approved and receiving an Award, a Recipient has three weeks to submit information for processing the Award payment. Not meeting that deadline will result in a forfeiture of the Award.
 8. Award Recipients grant permission to CSEAN, and its Partners to use the name, logo, statements, including city and state of primary physical location, and the submitted Application information in perpetuity, worldwide, royalty-free in all media now known, or which may be developed in the future to promote the Cyber Hackathon Award Programme and its objectives.
 9. The decisions of the Cybersecurity Hackathon are final, and Applicants specifically agree that the decision of the Program and any decision of CSEAN is not subject to review or appeal in any form whatsoever, including courts of law.
-10. By submitting your email address and/or an Application, you consent to our processing of the included personal data to take action on the Application and to contact you about other programs you may be interested in.
+10. By submitting your email address and/or an Application, you consent to our processing of the included personal data to take action on the application and to contact you about other programs you may be interested in.
 11. No warranty of any type is provided for any award. No Award may be transferred to any other party.
 12. By completing an Application or being an Applicant, you agree on behalf of yourself and each of your respective heirs, executors, administrators, legal representatives, agents, successors and assigns (“Releasing Party”) to the Cybersecurity Hackathon General Rules and the decisions of the competition, as applicable, and any affiliated entities or persons, and by completing an Application or being an Applicant, you release CSEAN, and their affiliates, advisors, agents, licensees, and any social or other media used for the Hackathon, and any of their respective officers, directors and employees as applicable (“Released Parties”), from any and all causes of action, suits, debts, dues, sums of money, accounts, reckonings, bonds, bills, covenants, contracts, controversies, promises, lost profits, indirect or direct damages, consequential damage, incidental damages, punitive or exemplary damages, judgments, claims and demands whosoever, in law, or equity, whether known or unknown, foreseen or unforeseen, which any Releasing Party has or may ever had, now or hereafter, arising from or related to the Cybersecurity Hackathon, these General Rules, any Application materials, including but not limited to any use or non-use of any Application materials, delivery, misdelivery, acceptance, possession, attendance at, travel related to, misuse, and/or use of or inability to use, any Award, or technical or other failures of any kind
 
@@ -74,6 +74,7 @@ General Rules and Disclaimers
 ![CSEAN](https://raw.githubusercontent.com/cyberexpertsng/csean/master/assets/images/sixchan2.png)
 
 # Sponsors & Partner
+![LYNSEC](https://raw.githubusercontent.com/cyberexpertsng/csean/master/assets/images/lynsec-d.png)
 
 ```
 Happy Hacking.
