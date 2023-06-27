@@ -44,7 +44,7 @@ The CTF will be a Jeopardy Style CTF where the teams will have a list of challen
 * To register, you need to form a team. A team is made up of 4-6 participants.
 * Once the team captain registers the team, please wait for a follow-up email to join our Discord channel.
 
-Applications are due on July 10th at 8 PM (Nigeria time). For more information, visit https://cseanctf.org.ng/
+Applications are due on July 10th at 8 PM (Nigeria time). For more information, visit https://info.cseanctf.org.ng/
 
 # Rules 
 Rules concerning the platform are included.
