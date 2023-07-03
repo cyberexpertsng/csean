@@ -11,7 +11,7 @@ We are proud to announce that registration is open for the CSEAN Cybersecurity H
 
  
 
-**WHEN:** 10th & 11th July 2022
+**WHEN:** 10th & 11th July 2023
 
 **WHERE:** Online
 
